@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(226, 190, 250);
+
+}
+
+#tributeTo{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    border: 5px double rgb(255, 184, 4);
+}
+
+h3{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer{
+    margin-top: 50px;
+}
+
+li{
+    line-height: 1.5;
+}
